@@ -1,5 +1,3 @@
-CostomeRental
-
 # Costume Rental System
 
 A responsive web-based Costume Rental System built with HTML, CSS, JavaScript, and Firebase.  
