@@ -26,7 +26,7 @@ Firebase handles authentication and real-time data updates.
 ## Future Enhancements
 
 - Payment integration
-- Order history and notifications
+- Order history
 - Inventory analytics
 
 ---
